@@ -1,0 +1,5 @@
+
+W
+'src/projetocliente20200902/Cliente.java,f/f/ffa7c26ee23e9bd56c5a2a9b0e70311fa39768e5
+f
+6src/projetocliente20200902/ProjetoCliente20200902.java,7/c/7c492ba8e2c45fa8ebec1d126fabd0fa6edc8566

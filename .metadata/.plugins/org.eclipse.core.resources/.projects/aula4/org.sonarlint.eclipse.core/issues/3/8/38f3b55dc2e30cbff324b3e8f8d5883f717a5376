@@ -1,0 +1,150 @@
+
+m
+java:S2209!"5Change this instance-reference to a static reference.(À§şÿÿÿÿ8…¿ıÅ.H¹RMAJORZ
+CODE_SMELL
+h
+java:S2209"5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.H³RMAJORZ
+CODE_SMELL
+h
+java:S2209."5Change this instance-reference to a static reference.(Ë²¼ò8…¿ıÅ.HÄRMAJORZ
+CODE_SMELL
+h
+java:S2209*"5Change this instance-reference to a static reference.(’”İÉ8…¿ıÅ.HÁRMAJORZ
+CODE_SMELL
+h
+java:S2209>"5Change this instance-reference to a static reference.(Å¯Ë8…¿ıÅ.HÏRMAJORZ
+CODE_SMELL
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÚ™Î8é ·¹Å.HÛRMINORZ
+CODE_SMELL
+h
+java:S2209"5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.H­RMAJORZ
+CODE_SMELL
+h
+java:S2209+"5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.HÂRMAJORZ
+CODE_SMELL
+h
+java:S2209-"5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.HÃRMAJORZ
+CODE_SMELL
+m
+java:S22092"5Change this instance-reference to a static reference.(ïŠŒµÿÿÿÿÿ8…¿ıÅ.HÇRMAJORZ
+CODE_SMELL
+h
+java:S2209%"5Change this instance-reference to a static reference.(ÏíŒÃ8…¿ıÅ.H½RMAJORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÀ×‘üÿÿÿÿ8èÍŞ·Å.HòRMINORZ
+CODE_SMELL
+h
+java:S2209"5Change this instance-reference to a static reference.(ÏíŒÃ8…¿ıÅ.HµRMAJORZ
+CODE_SMELL
+h
+java:S2209&"5Change this instance-reference to a static reference.(ÏíŒÃ8…¿ıÅ.H¾RMAJORZ
+CODE_SMELL
+h
+java:S22093"5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.HÈRMAJORZ
+CODE_SMELL
+h
+java:S2209"5Change this instance-reference to a static reference.(ÏíŒÃ8…¿ıÅ.H¶RMAJORZ
+CODE_SMELL
+h
+java:S2209$"5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.H¼RMAJORZ
+CODE_SMELL
+m
+java:S2209"5Change this instance-reference to a static reference.(ä·”úÿÿÿÿ8…¿ıÅ.H²RMAJORZ
+CODE_SMELL
+m
+java:S2209"5Change this instance-reference to a static reference.(°‚—ÿÿÿÿÿ8…¿ıÅ.H±RMAJORZ
+CODE_SMELL
+h
+java:S22095"5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.HÉRMAJORZ
+CODE_SMELL
+h
+java:S22096"5Change this instance-reference to a static reference.(Úû§ß8…¿ıÅ.HÊRMAJORZ
+CODE_SMELL
+·
+java:S1192"€Define a constant instead of duplicating this literal "==============================================================" 21 times.(‚œÍù8…¿ıÅ.H«RCRITICALZ
+CODE_SMELL
+m
+java:S2209"5Change this instance-reference to a static reference.(à”ë´üÿÿÿÿ8…¿ıÅ.H®RMAJORZ
+CODE_SMELL
+h
+java:S2209<"5Change this instance-reference to a static reference.(ËÀØ³8…¿ıÅ.HÌRMAJORZ
+CODE_SMELL
+h
+java:S2209/"5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.HÅRMAJORZ
+CODE_SMELL
+m
+java:S2209"5Change this instance-reference to a static reference.(ŸßÔÿûÿÿÿÿ8…¿ıÅ.H°RMAJORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8‰‚ëüÅ.H³RMINORZ
+CODE_SMELL
+m
+java:S2209D"5Change this instance-reference to a static reference.(ÿ¼©ûÿÿÿÿ8…¿ıÅ.HÓRMAJORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒíŠ÷úÿÿÿÿ8é ·¹Å.H‚RMINORZ
+CODE_SMELL
+¤
+java:S1130
+"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(àÒşüøÿÿÿÿ8·¯ÈüÅ.H×RMINORZ
+CODE_SMELL
+h
+java:S2209@"5Change this instance-reference to a static reference.(Ÿèäõ8…¿ıÅ.HÑRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Å´óˆHRMINORZ
+CODE_SMELL
+h
+java:S2209;"5Change this instance-reference to a static reference.(øÈúô8…¿ıÅ.HÍRMAJORZ
+CODE_SMELL
+h
+java:S2209#"5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.H»RMAJORZ
+CODE_SMELL
+h
+java:S2209("5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.H¿RMAJORZ
+CODE_SMELL
+h
+java:S2209)"5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.HÀRMAJORZ
+CODE_SMELL
+h
+java:S2209"5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.H·RMAJORZ
+CODE_SMELL
+h
+java:S22097"5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.HËRMAJORZ
+CODE_SMELL
+m
+java:S2209C"5Change this instance-reference to a static reference.(ÿ¼©ûÿÿÿÿ8…¿ıÅ.HÕRMAJORZ
+CODE_SMELL
+h
+java:S2209="5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.HÎRMAJORZ
+CODE_SMELL
+m
+java:S2209A"5Change this instance-reference to a static reference.(¬Ç¡òûÿÿÿÿ8…¿ıÅ.HÒRMAJORZ
+CODE_SMELL
+h
+java:S2209 "5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.H¸RMAJORZ
+CODE_SMELL
+h
+java:S2209"5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.H¬RMAJORZ
+CODE_SMELL
+h
+java:S2209"5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.H´RMAJORZ
+CODE_SMELL
+h
+java:S22091"5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.HÆRMAJORZ
+CODE_SMELL
+h
+java:S2209B"5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.HÔRMAJORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8‰‚ëüÅ.H´RMINORZ
+CODE_SMELL
+h
+java:S2209?"5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.HĞRMAJORZ
+CODE_SMELL
+h
+java:S2209"5Change this instance-reference to a static reference.(‚œÍù8…¿ıÅ.H¯RMAJORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã„±ûÿÿÿÿ8é ·¹Å.HÿRMINORZ
+CODE_SMELL
+m
+java:S2209""5Change this instance-reference to a static reference.(ıŸè„úÿÿÿÿ8…¿ıÅ.HºRMAJORZ
+CODE_SMELL

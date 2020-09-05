@@ -1,0 +1,40 @@
+
+f
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ÏÙçüÅ.HªRMINORZ
+CODE_SMELL
+i
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8ÏÙçüÅ.H¬RMINORZ
+CODE_SMELL
+k	java:S106d"9Replace this use of System.out or System.err by a logger.(í§¾ó8éÊ‹¹Å.HRMAJORZ
+CODE_SMELL
+k	java:S106V"9Replace this use of System.out or System.err by a logger.(¨Å“‹8´íÓ¸Å.H“RMAJORZ
+CODE_SMELL
+n	java:S1254"<This block of commented-out lines of code should be removed.(µ–©¸8üÓØüÅ.HøRMAJORZ
+CODE_SMELL
+n	java:S1257"<This block of commented-out lines of code should be removed.(¯ıìô8üÓØüÅ.HùRMAJORZ
+CODE_SMELL
+s	java:S125I"<This block of commented-out lines of code should be removed.(³…‰şÿÿÿÿ8ÖÓüÅ.HúRMAJORZ
+CODE_SMELL
+k	java:S106\"9Replace this use of System.out or System.err by a logger.(í§¾ó8éÊ‹¹Å.H”RMAJORZ
+CODE_SMELL
+k	java:S106g"9Replace this use of System.out or System.err by a logger.(×•œ²8åéÛ¹Å.HRMAJORZ
+CODE_SMELL
+s	java:S125A"<This block of commented-out lines of code should be removed.(óïƒ±ùÿÿÿÿ8ÖÓüÅ.HûRMAJORZ
+CODE_SMELL
+p
+java:S2589<"8Remove this expression which always evaluates to "false"(¨Ê‚íşÿÿÿÿ8ÿı¹ıÅ.HèRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Å´óˆH RMINORZ
+CODE_SMELL
+n	java:S125D"<This block of commented-out lines of code should be removed.(ÀÌÇ½8ÖÓüÅ.HüRMAJORZ
+CODE_SMELL
+p	java:S106_"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8åéÛ¹Å.H’RMAJORZ
+CODE_SMELL
+f
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8ÏÙçüÅ.H«RMINORZ
+CODE_SMELL
+n	java:S125>"<This block of commented-out lines of code should be removed.(ÌÂŠ8ÖÓüÅ.HıRMAJORZ
+CODE_SMELL
+¶
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(â®ß/8±°»ıÅ.HşRCRITICALZ
+CODE_SMELL
