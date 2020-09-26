@@ -53,6 +53,9 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/home/caue/desenvolvimento/projetos/faculdade/Polinomio"/>
+			<item value="/home/caue/desenvolvimento/projetos/faculdade/ConversorMonetario"/>
+			<item value="/home/caue/desenvolvimento/projetos/faculdade/Futebol20200916"/>
 			<item value="/home/caue/desenvolvimento/projetos/faculdade/TimeFutebol"/>
 			<item value="/home/caue/Downloads/Futebol20200916"/>
 			<item value="/home/caue/desenvolvimento/workspaces/faculdade/ProjetoCliente20200902"/>
