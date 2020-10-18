@@ -1,4 +1,3 @@
-.metadata/
-*.attach*
-*.project
-*sonarlint*
+.metadata/*
+.sonarlint/*
+.attach*
