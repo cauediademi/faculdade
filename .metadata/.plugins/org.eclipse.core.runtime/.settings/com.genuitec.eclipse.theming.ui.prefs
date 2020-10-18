@@ -1,11 +1,13 @@
 applyBackground=false
 approved.defs.file.last.changed.time=1599254320000
-configurationInstallLocation=/usr/lib/sts-4.6.2.RELEASE/
+codemix.announce.displayed=true
+configurationInstallLocation=/usr/lib/sts/
 eclipse.preferences.version=1
-iconcolormode=grayscale
+elearning.dont.show.until=1603541308344
+iconcolormode=primary
 iconreplacement=false
 includeThemingInOomph=false
-last.download.attempt.time=1601161148124
-lastConfiguration=1601161142405
+last.download.attempt.time=1602556279027
+lastConfiguration=1602556267601
 newinstall=true
 workbench.theme=Dark Gray

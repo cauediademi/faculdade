@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="this.setTipo("/>
+		<item key="selection" value="n2"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="n2"/>
 			<item value="this.setTipo("/>
 			<item value="this.tipo = "/>
 			<item value="nenhum"/>
 			<item value="Figura"/>
 		</list>
 		<list key="replacehistory">
+			<item value="num2"/>
 			<item value="return "/>
 			<item value="this.setTipo("/>
 			<item value="figura"/>
